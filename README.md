@@ -6,7 +6,7 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <div align="center">
     <h1 align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=30&duration=4000&pause=1000&color=3D9CF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!%F0%9F%9A%80;I'm+Pau!%F0%9F%91%8B" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3600&pause=900&color=3D9CF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Pau!%F0%9F%91%8B;Welcome+to+my+GitHub!%F0%9F%9A%80" />
         <br>
         <a href="https://www.linkedin.com/in/pau-mateo-bernadó-37292830b"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=blue" alt="profile of LinkedIn with username Pol-de-los-Santos-Subirats" /></a>
         <a href="mailto:pau.mateo.bernado@gmail.com"><img src="https://img.shields.io/badge/Personal-d5d5d5?style=for-the-badge&logo=gmail&logoColor=red" alt="email of Pau i.e.   delossantospol001@gmail.com" /></a>
@@ -14,9 +14,19 @@
     </h1>
 </div>
 
-<h3 align="center">A passionate student and data scientist from Barcelona. </h3>
+<h3 align="center">A curious student and a passionate data scientist from Barcelona. </h3>
 <br>
 <div style="padding-left: 20px;">
+
+
+<br><br>
+<div>
+    <h2>ABOUT ME:</h2>
+> ...
+> ..
+> ...
+</div>
+
 
 > 💻 I'm currently working on **...**
 >
