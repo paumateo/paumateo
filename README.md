@@ -6,29 +6,27 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <div align="center">
     <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!+🚀;+I'm+Pau!+👋;" />
+        <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=30&duration=4000&pause=1000&color=3D9CF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!%F0%9F%9A%80;I'm+Pau!%F0%9F%91%8B" />
         <br>
-        <a href="https://www.linkedin.com/in/pau-mateo-bernadó-37292830b"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Pol-de-los-Santos-Subirats" /></a>
-        <a href="mailto:pau.mateo.bernado@gmail.com"><img src="https://img.shields.io/badge/Personal-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Pol i.e.   delossantospol001@gmail.com" /></a>
-        <a href="mailto:pau.mateo.bernado@estudiantat.upc.edu"><img src="https://img.shields.io/badge/University-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Pol i.e.   pol.de.los.santos@estudiantat.upc.edu" /></a>
+        <a href="https://www.linkedin.com/in/pau-mateo-bernadó-37292830b"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=blue" alt="profile of LinkedIn with username Pol-de-los-Santos-Subirats" /></a>
+        <a href="mailto:pau.mateo.bernado@gmail.com"><img src="https://img.shields.io/badge/Personal-d5d5d5?style=for-the-badge&logo=gmail&logoColor=red" alt="email of Pau i.e.   delossantospol001@gmail.com" /></a>
+        <a href="mailto:pau.mateo.bernado@estudiantat.upc.edu"><img src="https://img.shields.io/badge/University-d5d5d5?style=for-the-badge&logo=gmail&logoColor=red" alt="email of Pol i.e.   pol.de.los.santos@estudiantat.upc.edu" /></a>
     </h1>
 </div>
 
-<h3 align="center">A passionate data scientist and software developer based in Barcelona. </h3>
+<h3 align="center">A passionate student and data scientist from Barcelona. </h3>
 <br>
 <div style="padding-left: 20px;">
 
-> 💻 I'm currently working on **Web Development for Datathons using Docker, SvelteKit, and PocketBase**
+> 💻 I'm currently working on **...**
 >
-> 📚 I'm currently learning **MLOps, Docker, and Cloud Infrastructure**
+> 📚 I'm currently learning **JS, React and other web programming languages**
 >
-> 💬 Ask me about **Python, Data Science, Competitive Programming, or Web Scraping**
+> 💬 Ask me about **Python, Data Science, or Classical music!**
 >
 > ⚡ Fun facts about me:
-> - 🎓 **Double degree student in Data Science and Biomedical Engineering at CFIS-UPC**
-> - 🌍 **Represented Spain at International Informatics Olympiad by Teams**
-> - 🥇 **Won multiple medals in Math and Programming competitions**
-> - 📖 **Founded and organize the UP+C Integration Bee**
+> - 🎓 **...**
+> - 🥇 **Honor mention (violin)**
 
 
 </div>
@@ -36,21 +34,32 @@
 <br><br>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<table align="center">
-    <thead> <tr> <th>Category</th> <th>Icons</th> </tr> </thead>
-    <tbody>
-        <tr><td>Programming Languages</td><td><img src="https://skillicons.dev/icons?i=python,cpp,r,matlab,js,html,css,svelte,ts,flutter" /></td></tr>
-        <tr><td>Tools</td><td><img src="https://skillicons.dev/icons?i=docker,mysql,postgres,pytorch,sqlite,supabase,vercel,npm,nodejs" /></td></tr>
-        <tr><td>Workflow & Environment</td><td><img src="https://skillicons.dev/icons?i=arch,linux,neovim,git,latex,vscodium,bash" /></td></tr>
-    </tbody>
-</table>
+
+<!-- Programming Languages -->
+<h3 align="center">Programming Languages</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,r,matlab" />
+</p>
+
+<!-- Tools -->
+<h3 align="center">Tools</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=postgres,pytorch,aws,elasticsearch,sklearn,cassandra" />
+</p>
+
+<!-- Workflow & Environment -->
+<h3 align="center">Workflow & Environment</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=powershell,git,latex,bash" />
+</p>
+
 
 
 
 
 <br><br>
 <div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
+    <h2>🐍 Snake eating my contributions 🐍</h2>
     <br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PDelos/PDelos/output/github-contribution-grid-snake.svg" />
 </div>
@@ -66,7 +75,4 @@
 <br><br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<div align="center">
-    <img height=100 src="https://repository-images.githubusercontent.com/344653306/e76e2176-800f-456d-be07-93e8f3da59d8">
-</div>
 
