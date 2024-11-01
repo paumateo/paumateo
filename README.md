@@ -18,33 +18,24 @@
 <br>
 <div style="padding-left: 20px;">
 
-
-<br><br>
-<div>
-    <h2>ABOUT ME:</h2>
-> ...
-> ..
-> ...
-</div>
-
-
-> 💻 I'm currently working on **...**
+> 💻 I'm currently working on **building a personal portfolio**
 >
 > 📚 I'm currently learning **JS, React and other web programming languages**
->
+> 
 > 💬 Ask me about **Python, Data Science, or Classical music!**
->
-> ⚡ Fun facts about me:
-> - 🎓 **...**
-> - 🥇 **Honor mention (violin)**
+> 
+> 🕹️ About Me:
+> - 🎓 I'm studying Data Science at UPC  
+> - 📡 I'm always interested in learning new things  
+> - 🌿 I love hiking and diving  
+> - 🎻 I've been playing the violin since 2010
+
 
 
 </div>
 
 <br><br>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-
+<h2 align="center">🛠️ Tech Stack 🛠️</h2>
 <!-- Programming Languages -->
 <h3 align="center">Programming Languages</p>
 <p align="center">
@@ -62,27 +53,3 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=powershell,git,latex,bash" />
 </p>
-
-
-
-
-
-<br><br>
-<div align="center">
-    <h2>🐍 Snake eating my contributions 🐍</h2>
-    <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PDelos/PDelos/output/github-contribution-grid-snake.svg" />
-</div>
-
-<br><br>
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-    <img width=390 height=200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PDelos&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img width=390 height=200 src="https://github-readme-stats-salesp07.vercel.app/api?username=PDelos&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
-
-<br><br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
