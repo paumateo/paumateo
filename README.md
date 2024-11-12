@@ -20,7 +20,7 @@
 
 > 💻 I'm currently working on **building a personal portfolio**
 >
-> 📚 I'm currently learning **JS, React and other web programming languages**
+> 📚 I'm currently learning **JS, CSS and other web programming languages**
 > 
 > 💬 Ask me about **Python, Data Science, or Classical music!**
 > 
@@ -29,6 +29,7 @@
 > - 📡 I'm always interested in learning new things  
 > - 🌿 I love hiking and diving  
 > - 🎻 I've been playing the violin since 2010
+> - 🎶 I'm part of the Coral Jove choir at the Sant Cugat Conservatory
 
 
 
