@@ -40,17 +40,17 @@
 <!-- Programming Languages -->
 <h3 align="center">Programming Languages</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,r,matlab" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,r" />
 </p>
 
 <!-- Tools -->
 <h3 align="center">Tools</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,pytorch,aws,elasticsearch,sklearn,cassandra" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,pytorch,aws,matlab,elasticsearch,sklearn,cassandra" />
 </p>
 
 <!-- Workflow & Environment -->
 <h3 align="center">Workflow & Environment</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=powershell,git,latex,bash" />
+    <img src="https://skillicons.dev/icons?i=powershell,git,latex,bash,eclipse,vscode" />
 </p>
