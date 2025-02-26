@@ -20,7 +20,7 @@
 
 > 💻 I'm currently working on **building a personal portfolio**
 >
-> 📚 I'm currently learning **JS, CSS and other web programming languages**
+> 📚 I'm currently learning **Svelte**
 > 
 > 💬 Ask me about **Python, Data Science, or Classical music!**
 > 
