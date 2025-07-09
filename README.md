@@ -21,7 +21,7 @@
 
 > 💻 I'm currently working on **building a personal portfolio**
 >
-> 📚 I'm currently learning **Svelte**
+> 📚 I'm currently learning **GNNs**
 > 
 > 💬 Ask me about **Python, Data Science, or Classical music!**
 > 
