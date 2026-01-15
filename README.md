@@ -53,5 +53,5 @@
 <!-- Workflow & Environment -->
 <h3 align="center">Workflow & Environment</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=powershell,git,latex,bash,eclipse,vscode" />
+    <img src="https://skillicons.dev/icons?i=powershell,git,latex,bash,eclipse,vscode,anaconda" />
 </p>
