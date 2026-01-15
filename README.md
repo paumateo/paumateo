@@ -19,14 +19,14 @@
 <div style="padding-left: 20px;">
 
 
-> 💻 I'm currently working on **building a personal portfolio**
+> 💻 I'm currently working on my **Final Degree Project**
 >
-> 📚 I'm currently learning **GNNs**
+> 📚 I'm currently learning **Quantum Machine Learning**
 > 
 > 💬 Ask me about **Python, Data Science, or Classical music!**
 > 
 > 🕹️ About Me:
-> - 🎓 I'm studying Data Science at UPC  
+> - 🎓 I'm studying Data Science at UPC and currently at an Exchange Semester at KTH, Stockholm, where I'm taking advanced ML courses from the MSc in ML
 > - 📡 I'm always interested in learning new things  
 > - 🌿 I love hiking and diving  
 > - 🎻 I've been playing the violin since 2010
