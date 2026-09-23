@@ -31,7 +31,7 @@
 > 🕹️ About Me:
 > - 🎓 I'm studying Data Science at UPC and currently collaborating at Biomedical Data Scince dpt. at Stanford as a Research Assistant 
 > - 📡 I'm always interested in learning new things  
-> - 🌿 I love hiking and diving  
+> - 🌿 I love hiking and climbing
 > - 🎻 I've been playing the violin since 2010
 > - 🎶 I'm part of the Coral Jove choir at the Sant Cugat Conservatory
 
